@@ -14,8 +14,7 @@ Please report any problems and suggestions to pavan.kumar@ilsb.tuwien.ac.at
 
 Co-Authors:
 
-Aamir Dean, "aamir-dean", Leibniz University of Hannover, Germany. 
+Aamir Dean, "aamir-dean", a.dean@isd.uni-hannover.de
 
-Jose Reinoso, "josereinoso", University of Seville, Spain.
-
+Jose Reinoso, "josereinoso", jreinoso@us.es
 
