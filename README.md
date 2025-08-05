@@ -6,7 +6,7 @@ Do not forget to change the "allelem" with number of the elements in the UEL in 
 
 Care has to be taken when defining the fatigue model (from the input file).
 
-If you are using this code for academic and research purpose. Also check out other codes on Thermo-mechanical solid shell, and do not forget to cite our article. 
+If you are using this code for academic and research purpose. Also check out other codes on thermo-mechanical solid shell, and do not forget to cite our article:
 
 P.K.A.V. Kumar, A. Dean, J. Reinoso, H.E. Pettermann, M. Paggi, "A phase-field fracture model for fatigue using locking-free solid shell finite elements: Analysis for homogeneous materials and layered composites", Theoretical and Applied Fracture Mechanics, Volume 127, 2023, 104029.
 
